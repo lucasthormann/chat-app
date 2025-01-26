@@ -1,2 +1,2 @@
 # chat-app
-*A chat application built using the ***mern*** stack!
+* A chat application built using the ***mern*** stack!
