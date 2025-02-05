@@ -4,6 +4,6 @@ const SignUpPage = () => {
   return (
     <div>SignUpPage</div>
   )
-}
+};
 
-export default SignUpPageg
+export default SignUpPage;
