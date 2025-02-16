@@ -29,7 +29,7 @@ CLOUDINARY_API_SECRET=...
 NODE_ENV=development
 ```
 
-### Build the app (Once it is finished)
+### Build the app
 
 ```shell
 npm run build
