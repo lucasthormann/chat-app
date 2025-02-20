@@ -18,13 +18,13 @@
 ### Setup .env file
 
 ```js
-MONGODB_URI=...
+MONGODB_URI=...***your mongodb URI***
 PORT=5001
-JWT_SECRET=...
+JWT_SECRET=...***your jwt secret***
 
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
+CLOUDINARY_CLOUD_NAME=...***etc***
+CLOUDINARY_API_KEY=...***etc***
+CLOUDINARY_API_SECRET=...***etc***
 
 NODE_ENV=development
 ```
