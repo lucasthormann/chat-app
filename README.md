@@ -40,3 +40,8 @@ npm run build
 ```shell
 npm start
 ```
+
+### Running instance available using link below
+```
+https://litechat-wim2.onrender.com/login
+```
