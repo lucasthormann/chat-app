@@ -1,5 +1,5 @@
-# chat-app
-* A chat application built using the ***mern*** stack!
+# LiteChat Beta
+* A chatroom application built using the ***MERN*** stack!
 
 ***Highlights:***
 
@@ -13,7 +13,7 @@
 
 👌 Global state management with Zustand
 
-🐞 Error handling both on the server and on the client
+🐞 Error handling both on the server and on the client side
 
 ### Setup .env file
 
@@ -41,7 +41,7 @@ npm run build
 npm start
 ```
 
-### Running instance available using link below
+### Deployed instance is accessible using the link below thanks to Render
 ```
 https://litechat-wim2.onrender.com/login
 ```
