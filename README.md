@@ -15,33 +15,7 @@
 
 🐞 Error handling both on the server and on the client side
 
-### Setup .env file
-
-```js
-MONGODB_URI=...***your mongodb URI***
-PORT=5001
-JWT_SECRET=...***your jwt secret***
-
-CLOUDINARY_CLOUD_NAME=...***etc***
-CLOUDINARY_API_KEY=...***etc***
-CLOUDINARY_API_SECRET=...***etc***
-
-NODE_ENV=development
-```
-
-### Build the app
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
-```
-
-### Deployed instance is accessible using the link below thanks to Render
+### An instance of this application's GUI is accessible using the link below thanks to Render
 ```
 https://litechat-wim2.onrender.com/login
 ```
