@@ -3,10 +3,10 @@
 
 ## Highlights:
 * Tech stack: MongoDB + Express.js + React + Node.js + TailwindCSS + Daisy UI
-* Authentication && Authorization with JWT
-* Real-time messaging with Socket.io
+* Authentication && Authorization using JSON Web Tokens
+* Real-time messaging using the Socket.IO library
 * Online user status
-* Global state management with Zustand
+* Global state management using the Zustand package
 * Error handling on both the server and client side
 
 ### An instance of this application's GUI is accessible using the link below thanks to Render
