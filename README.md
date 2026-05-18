@@ -9,7 +9,10 @@
 * Global state management using the Zustand package
 * Error handling on both the server and client side
 
-### An instance of this application's GUI is accessible using the link below thanks to Render
+## Target Environment:
+* A proprietary cloud, partially composed of standard server CPUs (x86_64), that is provided by Render
+
+### An instance of this application's GUI is accessible using the link below
 ```
 https://litechat-wim2.onrender.com/login
 ```
